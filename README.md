@@ -1,6 +1,7 @@
 #training repo
 
 add some text bruh
+changing right on github bruh
 
 #Chapter 1
 
